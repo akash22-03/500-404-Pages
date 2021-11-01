@@ -1,2 +1,7 @@
 # 500-404-Pages
-Error Handling - Servlets and JSPs
+Error Handling - Java Server Pages
+The contents of this folder is in the directory
+
+```
+\src\main\webapp\
+```
